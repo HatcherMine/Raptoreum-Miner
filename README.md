@@ -1,3 +1,6 @@
+
+<meta name="google-site-verification" content="dyCHBrNOLBJRE8Nvto6a0YEfs8wMybvNAMo-jUplLBI" />
+
 Download
 ------------
 Downloads can be found [here.](https://github.com/HatcherMine/Raptoreum-Miner/releases)
