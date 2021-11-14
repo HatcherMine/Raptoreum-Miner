@@ -1,24 +1,6 @@
 Download
 ------------
 Downloads can be found [here.](https://github.com/HatcherMine/Raptoreum-Miner/releases)
-cpuminer-gr is a fork of cpuminer-opt by Jay D Dee which is a fork of cpuminer-multi with optimizations
-imported from other miners developped by lucas Jones, djm34, Wolf0, pooler,
-Jeff garzik, ig0tik3d, elmad, palmd, and Optiminer, with additional
-optimizations by Jay D Dee.
-
-All of the code is believed to be open and free. If anyone has a
-claim to any of it post your case in the cpuminer-gr by email.
-
-Miner programs are often flagged as malware by antivirus programs. This is
-a false positive, they are flagged simply because they are cryptocurrency 
-miners. The source code is open for anyone to inspect. If you don't trust 
-the software, don't use it.
-
-There is NO official bitcointalk thread about this miner. It is due to
-unjust ban after posting about first release about this miner.
-
-See file RELEASE_NOTES for change log and INSTALL_LINUX or INSTALL_WINDOWS
-for compile instructions.
 
 Requirements
 ------------
