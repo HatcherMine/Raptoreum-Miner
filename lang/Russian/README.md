@@ -1,6 +1,6 @@
 Скачать
 ------------
-Загрузки можно найти [здесь] (https://github.com/HatcherMine/Raptoreum-Miner/releases)
+Загрузки можно найти [здесь](https://github.com/HatcherMine/Raptoreum-Miner/releases)
 
 Требования
 ------------
