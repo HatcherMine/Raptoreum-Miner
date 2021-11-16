@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/HatcherMine/Raptoreum-Miner">English</a> |
+  <span>Pусский</span> |
+  <a href="https://github.com/HatcherMine/Raptoreum-Miner/edit/main/lang/Chinese">中文</a> |
+</p>
 Скачать
 ------------
 Загрузки можно найти [здесь](https://github.com/HatcherMine/Raptoreum-Miner/releases)
